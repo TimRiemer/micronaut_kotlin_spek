@@ -1,0 +1,9 @@
+== Greeting
+
+Showcase with Micronaut, Kotlin and Spek2
+
+=== Stack
+- Micronaut 1.0.0.M3
+- Kotlin 1.2.61
+- Spek2 2.0.0-alpha.2
+- Gradle 4.10

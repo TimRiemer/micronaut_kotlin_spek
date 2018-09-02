@@ -1,0 +1,7 @@
+micronaut:
+    application:
+        name: micronaut_kotlin_spek
+                
+#Uncomment to set server port
+    server:
+        port: 8080
